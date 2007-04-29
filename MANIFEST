@@ -1,0 +1,6 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/DBD-mysql-informationschema.t
+lib/DBD/mysql/informationschema.pm

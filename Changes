@@ -1,0 +1,6 @@
+Revision history for Perl extension DBD::mysql::informationschema.
+
+0.01  Sun Apr 29 01:42:09 2007
+	- original version; created by h2xs 1.23 with options
+		-A -O -X -c -d --skip-autoloader --skip-ppport --skip-exporter -n DBD::mysql::informationschema
+
